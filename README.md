@@ -20,3 +20,5 @@
 - Modify the places where there is nothing
 - Open the console
 - Write node xp.js
+
+# Only the modules are missing but you should know how to put them in.
